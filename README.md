@@ -10,6 +10,8 @@
 
 - 📄 Know about my experiences **[Link to your Resume/CV Folder](INSERT_YOUR_PUBLIC_DRIVE_LINK_HERE)**
 
+- Boost your career with Scrimba. Get 30% off using this link: https://scrimba.com/?via=u426fbc6
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/oadel1814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oadel1814" height="30" width="40" /></a>
