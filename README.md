@@ -13,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/oadel1814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oadel1814" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-adel-605356246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-adel-605356246/" height="30" width="40" /></a>
-<a href="https://behance.net/https://www.behance.net/omaradel17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/omaradel17" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/oadel1814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/oadel1814" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/oadel1814/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/oadel1814/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-adel-605356246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-adel-605356246/" height="30" width="40" /></a>
+<a href="https://www.behance.net/omaradel17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/omaradel17" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/oadel1814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/oadel1814" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/oadel1814/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/oadel1814/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
